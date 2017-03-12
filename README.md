@@ -16,7 +16,7 @@ This is the repository containing the necessary code and other assets to build a
 
 This prototype is far from being perfect and manual keyboard inputs are still needed to controll the robot.
 
-![kugel_lauft.gif](.\assets\images\kugel_lauft.gif)
+![kugel_lauft.gif](https://raw.githubusercontent.com/miduku/project-luna/master/assets/images/kugel_lauft.gif)
 
 
 ### Content
@@ -71,13 +71,13 @@ These hardware components were used to build the robot:
 
 The acrylic ball has the diameter of 18cm.
 
-![IMG_20170116_225731.jpg](.\assets\images\IMG_20170116_225731.jpg)
+![IMG_20170116_225731.jpg](https://raw.githubusercontent.com/miduku/project-luna/master/assets/images/IMG_20170116_225731.jpg)
 
-![IMG_20170117_222056.jpg](.\assets\images\IMG_20170117_222056.jpg)
+![IMG_20170117_222056.jpg](https://raw.githubusercontent.com/miduku/project-luna/master/assets/images/IMG_20170117_222056.jpg)
 
-![IMG_20170121_123740.jpg](.\assets\images\IMG_20170121_123740.jpg)
+![IMG_20170121_123740.jpg](https://raw.githubusercontent.com/miduku/project-luna/master/assets/images/IMG_20170121_123740.jpg)
 
-![IMG_20170122_182610.jpg](.\assets\images\IMG_20170122_182610.jpg)
+![IMG_20170122_182610.jpg](https://raw.githubusercontent.com/miduku/project-luna/master/assets/images/IMG_20170122_182610.jpg)
 
 
 
@@ -85,18 +85,18 @@ The acrylic ball has the diameter of 18cm.
 The inner chasis was 3D printed and everything was build with modularity in mind.
 You can find .stl files in `/assets/stl files`
 
-![IMG_20170115_144418.jpg](.\assets\images\IMG_20170115_144418.jpg)
+![IMG_20170115_144418.jpg](https://raw.githubusercontent.com/miduku/project-luna/master/assets/images/IMG_20170115_144418.jpg)
 
-![IMG_20170115_154105.jpg](.\assets\images\IMG_20170115_154105.jpg)
+![IMG_20170115_154105.jpg](https://raw.githubusercontent.com/miduku/project-luna/master/assets/images/IMG_20170115_154105.jpg)
 
-![IMG_20170115_182901.jpg](.\assets\images\IMG_20170115_182901.jpg)
+![IMG_20170115_182901.jpg](https://raw.githubusercontent.com/miduku/project-luna/master/assets/images/IMG_20170115_182901.jpg)
 
 
 #### Circuitry
 [Fritzing](http://fritzing.org/) files can be found in`/assets/fritzing`
 
-![project-luna_Steckplatine.png](.\assets\fritzing\project-luna_Steckplatine.png)
+![project-luna_Steckplatine.png](https://raw.githubusercontent.com/miduku/project-luna/master/assets/fritzing/project-luna_Steckplatine.png)
 
-![project-luna_Schaltplan.png](.\assets\fritzing\project-luna_Schaltplan.png)
+![project-luna_Schaltplan.png](https://raw.githubusercontent.com/miduku/project-luna/master/assets/fritzing/project-luna_Schaltplan.png)
 
-![IMG_20170116_225603.jpg](.\assets\images\IMG_20170116_225603.jpg)
+![IMG_20170116_225603.jpg](https://raw.githubusercontent.com/miduku/project-luna/master/assets/images/IMG_20170116_225603.jpg)
