@@ -1,0 +1,46 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
+
+html,
+body,
+main {
+  height: 100%;
+}
+
+main,
+form {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-flow: row nowrap;
+  align-items: center;
+  align-content: center;
+}
+
+.span {
+  /*background: pink;*/
+  align-self: auto;
+  display: block;
+  margin-bottom: 20px;
+  padding: 0 20px;
+}
+
+button {
+  display: inline-block;
+  border: 1px solid #9C27B0;
+  background-color: #F3E5F5;
+  font-size: 2em;
+  min-width: 2em;
+  line-height: 2em;
+  padding: 0;
+}
+
+button:active {
+  background-color: #9C27B0;
+}
