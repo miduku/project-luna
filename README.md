@@ -7,6 +7,7 @@
 [University of Applied Sciences Potsdam](http://www.fh-potsdam.de/)  
 Semester: Winter 2016/17  
 Course: [11EG-P: Lost in Navigation](https://incom.org/workspace/6888)  
+Collaborators: [miduku](https://github.com/miduku), [flempke](https://github.com/flempke), [edgalindo](https://github.com/edgalindo)   
 Supervisors: [Fabian Morón Zirfas](https://incom.org/profil/270), [Prof. Myriel Milicevic](https://incom.org/profil/6664)
  
 This Project was realized with [Node.js](https://nodejs.org/en/), [Particle API JS](https://docs.particle.io/reference/javascript/), and the [Particle Desktop IDE](https://www.particle.io/products/development-tools/particle-desktop-ide) during the cource *Lost in Navigation* at the *University of Applied Sciences Potsdam*.
