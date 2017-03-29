@@ -21,7 +21,64 @@ This prototype is far from being perfect and manual keyboard inputs are still ne
 
 
 ### Content
-Folders `/photon`and `/web` contain the necessary code to run the robot with the Particle Photon. The `/assets` folder contains other files such as circuit diagrams or .stl files.
+
+```
+.
+│   LICENSE.md
+│   README.md
+│
+├───assets
+│   ├───fritzing
+│   │       project-luna.fzz
+│   │       project-luna_Schaltplan.png
+│   │       project-luna_Steckplatine.png
+│   │
+│   ├───images
+│   │       IMG_20170115_144418.jpg
+│   │       IMG_20170115_154105.jpg
+│   │       IMG_20170115_182901.jpg
+│   │       IMG_20170116_225603.jpg
+│   │       IMG_20170116_225731.jpg
+│   │       IMG_20170117_222056.jpg
+│   │       IMG_20170121_123740.jpg
+│   │       IMG_20170122_182610.jpg
+│   │       IMG_20170123_190859.jpg
+│   │       kugel_lauft.gif
+│   │
+│   └───stl files
+│           Luna_motor_mount_01.stl
+│           Luna_motor_mount_02_fix.stl
+│           Luna_mounting_plate_01_fix.stl
+│           Luna_mounting_plate_02_fix.stl
+│           Luna_parts_list.xlsx
+│           Luna_wheel_adapter.stl
+│
+├───photon
+│   └───src
+│           project-pila-photon.ino
+│
+└───web
+    │   .editorconfig
+    │   index.html
+    │
+    ├───.vscode
+    │       formatter.json
+    │
+    ├───css
+    │       style.css
+    │
+    └───js
+        │   index.js
+        │
+        └───lib
+            ├───jquery
+            │       jquery-3.1.1.min.js
+            │
+            └───particle-api
+                    particle.min.js
+```
+
+Folders `/photon` and `/web` contain the necessary code to run the robot with the Particle Photon. The `/assets` folder contains other files such as circuit diagrams or .stl files.
 
 
 
@@ -40,14 +97,14 @@ in `/photon/src` you can find the .ino file for the Particle Photon. You can eas
 #### 3. Run the API
 Open `index.js` in `/web/js` and enter your particle.io credentials:
 ```
-	let config = {
-      username: '###@###.##',
-      password: '####',
-      deviceName: '####',
-      // don't edit below
-      accessToken: '?',
-      deviceId: '?'
-    }
+let config = {
+  username: '###@###.##',
+  password: '####',
+  deviceName: '####',
+  // don't edit below
+  accessToken: '?',
+  deviceId: '?'
+}
 ```
 
 Open your terminal and go to the folder `/web`
